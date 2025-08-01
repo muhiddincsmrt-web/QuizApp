@@ -1,8 +1,53 @@
 [
   {
-    "question": "How are you?",
-    "options": ["okay", "alright","not okay", "bad"],
-    "correctIndex": 0
+    "question": "What is an ion?",
+    "options": [
+      "A neutral atom",
+      "An atom that has gained or lost electrons",
+      "An atom with more protons than neutrons",
+      "A molecule with a covalent bond"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What type of bond is formed in an ionic compound?",
+    "options": [
+      "Covalent bond",
+      "Metallic bond",
+      "Hydrogen bond",
+      "Electrostatic attraction between oppositely charged ions"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What happens when sodium reacts with chlorine?",
+    "options": [
+      "Sodium gains an electron and becomes negative",
+      "Chlorine loses an electron and becomes positive",
+      "Sodium transfers an electron to chlorine",
+      "No reaction occurs"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a property of ionic compounds?",
+    "options": [
+      "They conduct electricity when solid",
+      "They have low melting points",
+      "They conduct electricity when molten or dissolved",
+      "They are usually gases at room temperature"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Why do ionic compounds have high melting points?",
+    "options": [
+      "Because they contain covalent bonds",
+      "Due to weak forces between molecules",
+      "Due to strong electrostatic forces between ions",
+      "Because the ions are free to move"
+    ],
+    "correctIndex": 2
   }
 ]
   
