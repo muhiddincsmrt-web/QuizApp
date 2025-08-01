@@ -2,7 +2,7 @@
   {
     "question": "How are you?",
     "options": ["okay", "alright","not okay", "bad"],
-    "correctIndex": "0"
+    "correctIndex": 0
   }
 ]
   
